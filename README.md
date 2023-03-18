@@ -26,28 +26,13 @@ v.1.0.0.1 (17-May-2017)
 
 ### Target Device and Operating System:
 
-Windows Device - x86 Bit -
-
-### Start Date:
-
-29-Dec-2017
+Windows Device - x86 Bit
 
 ### Developed by:
 
 Md. Rezwan Saki Alin
 https://www.alinsworld.com/
 
-### Used:
+### Used Languages and Tools:
 
-<ul>
- <li>Php7</li>
- <li>Laravel 5.5</li>
- <li>Localhost (Wamp Server)</li>
- <li>Bootstrap 3.3.7, Html5, CSS3</li>
-</ul>
-
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Java JDK8, JRE8, NetBeans8.2 (Using Swing)
