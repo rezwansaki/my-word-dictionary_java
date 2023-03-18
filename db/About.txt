@@ -1,0 +1,23 @@
+  
+
+  File Name : "dict.bd"
+  Type : SQLite
+
+  Support : Unicode Bangla Font
+
+  Total Words : 93421 Words (After Correction) Original (93428 words)
+
+
+  ==============================================================================
+
+
+  E2E Dictionary
+ 
+  Database collected from : https://www.gutenberg.org/
+
+  Total word : 1,76,023 words
+
+
+ 
+
+  
